@@ -1,0 +1,1 @@
+@extendeds('admin/layout')
